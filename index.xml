@@ -7,38 +7,86 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2016, Markus. Alle Rechte vorbehalten.</copyright>
-    <lastBuildDate>Thu, 13 Oct 2016 17:49:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2016 12:00:00 +0200</lastBuildDate>
     <atom:link href="http://rsndhl.de/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Göteborg</title>
-      <link>http://rsndhl.de/blog/2016/10/13/goeteborg/</link>
-      <pubDate>Thu, 13 Oct 2016 17:49:00 +0200</pubDate>
+      <title>Eriksberg</title>
+      <link>http://rsndhl.de/blog/2016/10/16/eriksberg/</link>
+      <pubDate>Sun, 16 Oct 2016 12:00:00 +0200</pubDate>
       
-      <guid>http://rsndhl.de/blog/2016/10/13/goeteborg/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/banners/vrango.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
+      <guid>http://rsndhl.de/blog/2016/10/16/eriksberg/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/eriksberg.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vrångö</title>
+      <link>http://rsndhl.de/blog/2016/09/24/vrango/</link>
+      <pubDate>Sat, 24 Sep 2016 12:00:00 +0200</pubDate>
+      
+      <guid>http://rsndhl.de/blog/2016/09/24/vrango/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/vrango.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Donsö</title>
+      <link>http://rsndhl.de/blog/2016/09/18/donso/</link>
+      <pubDate>Sun, 18 Sep 2016 12:00:00 +0200</pubDate>
+      
+      <guid>http://rsndhl.de/blog/2016/09/18/donso/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/donso.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/donso2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Styrsö</title>
+      <link>http://rsndhl.de/blog/2016/09/10/styrso/</link>
+      <pubDate>Sat, 10 Sep 2016 12:00:00 +0200</pubDate>
+      
+      <guid>http://rsndhl.de/blog/2016/09/10/styrso/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/styrso.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/styrso2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/styrso3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fjärås Bracka</title>
+      <link>http://rsndhl.de/blog/2016/09/04/fjarasbracka/</link>
+      <pubDate>Sun, 04 Sep 2016 12:00:00 +0200</pubDate>
+      
+      <guid>http://rsndhl.de/blog/2016/09/04/fjarasbracka/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjarasbracka.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjarasbracka2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Göteborg</title>
+      <link>http://rsndhl.de/blog/2016/08/21/goeteborg/</link>
+      <pubDate>Sun, 21 Aug 2016 12:00:00 +0200</pubDate>
+      
+      <guid>http://rsndhl.de/blog/2016/08/21/goeteborg/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/goeteborg.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis.&lt;/p&gt;
-
-&lt;p&gt;At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, At accusam aliquyam diam diam dolore dolores duo eirmod eos erat, et nonumy sed tempor et et invidunt justo labore Stet clita ea et gubergren, kasd magna no rebum. sanctus sea sed takimata ut vero voluptua. est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.&lt;/p&gt;
-
-&lt;p&gt;Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
-
-&lt;p&gt;Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.&lt;/p&gt;
-
-&lt;p&gt;Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.&lt;/p&gt;
-
-&lt;p&gt;Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/goeteborg2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Schweden</title>
+      <link>http://rsndhl.de/blog/2016/08/20/schweden/</link>
+      <pubDate>Sat, 20 Aug 2016 12:00:00 +0200</pubDate>
+      
+      <guid>http://rsndhl.de/blog/2016/08/20/schweden/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/schweden.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
