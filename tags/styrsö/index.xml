@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rsndhl</title>
-    <link>http://rsndhl.de/tags/styrs%C3%B6/index.xml</link>
-    <description>Recent content on rsndhl</description>
+    <title>Styrsö on rsndhl</title>
+    <link>http://rsndhl.de/tags/styrs%C3%B6/</link>
+    <description>Recent content in Styrsö on rsndhl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2017. Alle Rechte vorbehalten.</copyright>
-    <atom:link href="http://rsndhl.de/tags/styrs%C3%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2016 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://rsndhl.de/tags/styrs%C3%B6/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Styrsö</title>
@@ -15,12 +18,7 @@
       <pubDate>Sat, 10 Sep 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/09/10/styrso/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/styrso.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/styrso2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/styrso3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>img src=&amp;ldquo;/img/photos/styrso2.jpg&amp;rdquo; style=&amp;ldquo;width: 100%;&amp;rdquo; /&amp;gt;</description>
     </item>
     
   </channel>

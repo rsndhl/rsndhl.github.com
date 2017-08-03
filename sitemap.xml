@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rsndhl.de/</loc>
-    <lastmod>2016-11-30T12:00:00+02:00</lastmod>
+    <loc>http://rsndhl.de/blog/2017/06/26/kalifornien/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -72,11 +73,190 @@
   </url>
   
   <url>
+    <loc>http://rsndhl.de/tags/abisko/</loc>
+    <lastmod>2016-11-30T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/blog/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/bohusl%C3%A4n/</loc>
+    <lastmod>2016-11-12T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/deutschland/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/categories/deutschland/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/dons%C3%B6/</loc>
+    <lastmod>2016-09-18T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/eriksberg/</loc>
+    <lastmod>2016-10-16T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/fj%C3%A4llbacka/</loc>
+    <lastmod>2016-11-12T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/fj%C3%A4r%C3%A5s-bracka/</loc>
+    <lastmod>2016-09-04T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/g%C3%B6teborg/</loc>
+    <lastmod>2016-10-30T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://rsndhl.de/about/</loc>
   </url>
   
   <url>
+    <loc>http://rsndhl.de/tags/kalifornien/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/kieler-bucht/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/kiruna/</loc>
+    <lastmod>2016-11-27T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://rsndhl.de/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/k%C3%B6pstads%C3%B6/</loc>
+    <lastmod>2016-10-30T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/lappland/</loc>
+    <lastmod>2016-11-30T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/narvik/</loc>
+    <lastmod>2016-11-29T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/nordlichter/</loc>
+    <lastmod>2016-11-30T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/norwegen/</loc>
+    <lastmod>2016-11-29T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/categories/norwegen/</loc>
+    <lastmod>2016-11-29T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/ostsee/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/schleswig-holstein/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/schweden/</loc>
+    <lastmod>2016-11-30T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/categories/schweden/</loc>
+    <lastmod>2016-11-30T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/sch%C3%A4ren/</loc>
+    <lastmod>2016-10-30T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/sch%C3%B6nberg/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/styrs%C3%B6/</loc>
+    <lastmod>2016-09-10T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/</loc>
+    <lastmod>2016-11-30T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/tags/vr%C3%A5ng%C3%B6/</loc>
+    <lastmod>2016-09-24T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rsndhl.de/</loc>
+    <lastmod>2017-06-26T12:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

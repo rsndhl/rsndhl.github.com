@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rsndhl</title>
-    <link>http://rsndhl.de/tags/k%C3%B6pstads%C3%B6/index.xml</link>
-    <description>Recent content on rsndhl</description>
+    <title>Köpstadsö on rsndhl</title>
+    <link>http://rsndhl.de/tags/k%C3%B6pstads%C3%B6/</link>
+    <description>Recent content in Köpstadsö on rsndhl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2017. Alle Rechte vorbehalten.</copyright>
-    <atom:link href="http://rsndhl.de/tags/k%C3%B6pstads%C3%B6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Oct 2016 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://rsndhl.de/tags/k%C3%B6pstads%C3%B6/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Köpstadsö</title>
@@ -15,12 +18,7 @@
       <pubDate>Sun, 30 Oct 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/10/30/kopstadso/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kosptad1.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kosptad2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kosptad3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

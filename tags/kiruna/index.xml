@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rsndhl</title>
-    <link>http://rsndhl.de/tags/kiruna/index.xml</link>
-    <description>Recent content on rsndhl</description>
+    <title>Kiruna on rsndhl</title>
+    <link>http://rsndhl.de/tags/kiruna/</link>
+    <description>Recent content in Kiruna on rsndhl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2017. Alle Rechte vorbehalten.</copyright>
-    <atom:link href="http://rsndhl.de/tags/kiruna/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2016 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://rsndhl.de/tags/kiruna/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Kiruna</title>
@@ -15,14 +18,7 @@
       <pubDate>Sun, 27 Nov 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/11/27/kiruna/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kiruna1.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kiruna2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kiruna3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kiruna4.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

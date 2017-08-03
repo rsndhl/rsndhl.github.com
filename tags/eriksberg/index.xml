@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rsndhl</title>
-    <link>http://rsndhl.de/tags/eriksberg/index.xml</link>
-    <description>Recent content on rsndhl</description>
+    <title>Eriksberg on rsndhl</title>
+    <link>http://rsndhl.de/tags/eriksberg/</link>
+    <description>Recent content in Eriksberg on rsndhl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2017. Alle Rechte vorbehalten.</copyright>
-    <atom:link href="http://rsndhl.de/tags/eriksberg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Oct 2016 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://rsndhl.de/tags/eriksberg/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Eriksberg</title>
@@ -15,8 +18,7 @@
       <pubDate>Sun, 16 Oct 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/10/16/eriksberg/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/eriksberg.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

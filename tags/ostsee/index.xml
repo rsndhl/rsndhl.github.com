@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ostsee on rsndhl</title>
+    <link>http://rsndhl.de/tags/ostsee/</link>
+    <description>Recent content in Ostsee on rsndhl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright (c) 2017. Alle Rechte vorbehalten.</copyright>
+    <lastBuildDate>Mon, 26 Jun 2017 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://rsndhl.de/tags/ostsee/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kalifornien</title>
+      <link>http://rsndhl.de/blog/2017/06/26/kalifornien/</link>
+      <pubDate>Mon, 26 Jun 2017 12:00:00 +0200</pubDate>
+      
+      <guid>http://rsndhl.de/blog/2017/06/26/kalifornien/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

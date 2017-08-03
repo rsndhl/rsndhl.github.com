@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rsndhl</title>
-    <link>http://rsndhl.de/tags/fj%C3%A4llbacka/index.xml</link>
-    <description>Recent content on rsndhl</description>
+    <title>Fjällbacka on rsndhl</title>
+    <link>http://rsndhl.de/tags/fj%C3%A4llbacka/</link>
+    <description>Recent content in Fjällbacka on rsndhl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2017. Alle Rechte vorbehalten.</copyright>
-    <atom:link href="http://rsndhl.de/tags/fj%C3%A4llbacka/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2016 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://rsndhl.de/tags/fj%C3%A4llbacka/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Fjällbacka</title>
@@ -15,12 +18,7 @@
       <pubDate>Sat, 12 Nov 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/11/12/fjallbacka/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjallbacka1.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjallbacka2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjallbacka3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

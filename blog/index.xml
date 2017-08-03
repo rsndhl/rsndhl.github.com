@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog-rsses on rsndhl</title>
-    <link>http://rsndhl.de/blog/index.xml</link>
-    <description>Recent content in Blog-rsses on rsndhl</description>
+    <title>Blogs on rsndhl</title>
+    <link>http://rsndhl.de/blog/</link>
+    <description>Recent content in Blogs on rsndhl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright (c) 2017. Alle Rechte vorbehalten.</copyright>
-    <lastBuildDate>Wed, 30 Nov 2016 12:00:00 +0200</lastBuildDate>
-    <atom:link href="http://rsndhl.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2017 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://rsndhl.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kalifornien</title>
+      <link>http://rsndhl.de/blog/2017/06/26/kalifornien/</link>
+      <pubDate>Mon, 26 Jun 2017 12:00:00 +0200</pubDate>
+      
+      <guid>http://rsndhl.de/blog/2017/06/26/kalifornien/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Abisko</title>
@@ -16,16 +27,7 @@
       <pubDate>Wed, 30 Nov 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/11/30/abisko/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/abisko1.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/abisko2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/abisko3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/abisko4.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/abisko5.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -34,12 +36,7 @@
       <pubDate>Wed, 30 Nov 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/11/30/nordlichter/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/nl1.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/nl2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/nl3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -48,10 +45,7 @@
       <pubDate>Tue, 29 Nov 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/11/29/narvik/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/narvik1.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/narvik2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>&amp;lt;</description>
     </item>
     
     <item>
@@ -60,14 +54,7 @@
       <pubDate>Sun, 27 Nov 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/11/27/kiruna/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kiruna1.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kiruna2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kiruna3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kiruna4.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -76,12 +63,7 @@
       <pubDate>Sat, 12 Nov 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/11/12/fjallbacka/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjallbacka1.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjallbacka2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjallbacka3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -90,12 +72,7 @@
       <pubDate>Sun, 30 Oct 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/10/30/kopstadso/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kosptad1.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kosptad2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/kosptad3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -104,8 +81,7 @@
       <pubDate>Sun, 16 Oct 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/10/16/eriksberg/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/eriksberg.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -114,8 +90,7 @@
       <pubDate>Sat, 24 Sep 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/09/24/vrango/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/vrango.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -124,10 +99,7 @@
       <pubDate>Sun, 18 Sep 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/09/18/donso/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/donso.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/donso2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -136,12 +108,7 @@
       <pubDate>Sat, 10 Sep 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/09/10/styrso/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/styrso.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/styrso2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/styrso3.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>img src=&amp;ldquo;/img/photos/styrso2.jpg&amp;rdquo; style=&amp;ldquo;width: 100%;&amp;rdquo; /&amp;gt;</description>
     </item>
     
     <item>
@@ -150,10 +117,7 @@
       <pubDate>Sun, 04 Sep 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/09/04/fjarasbracka/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjarasbracka.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/fjarasbracka2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -162,10 +126,8 @@
       <pubDate>Sun, 21 Aug 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/08/21/goeteborg/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/goeteborg.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/goeteborg2.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>a href=&amp;ldquo;https://www.dropbox.com/s/30boggug7zx80da/goeteborg.jpg?raw=1&amp;quot;&amp;gt;
+a href=&amp;ldquo;https://www.dropbox.com/s/x93fay41dw5pfwu/goeteborg2.jpg?raw=1&amp;quot;&amp;gt;</description>
     </item>
     
     <item>
@@ -174,8 +136,8 @@
       <pubDate>Sat, 20 Aug 2016 12:00:00 +0200</pubDate>
       
       <guid>http://rsndhl.de/blog/2016/08/20/schweden/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://rsndhl.de/img/photos/schweden.jpg&#34; style=&#34;width: 100%;&#34; /&gt;&lt;/p&gt;
-</description>
+      <description> a href=&amp;ldquo;https://www.dropbox.com/s/g3tilbk2hcrvdlr/schweden.jpg?raw=1&amp;quot;&amp;gt;
+ </description>
     </item>
     
   </channel>
